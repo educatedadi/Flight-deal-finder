@@ -29,5 +29,5 @@ Automatically track flight prices and get instant alerts when deals drop below y
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/flight-deal-finder.git
+git clone https://github.com/educatedadi/Flight-deal-finder.git
 cd flight-deal-finder
