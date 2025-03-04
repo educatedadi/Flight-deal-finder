@@ -6,7 +6,7 @@ Automatically track flight prices and get instant alerts when deals drop below y
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 [![API Status](https://img.shields.io/badge/Tequila_API-Kiwi.com-success)](https://tequila.kiwi.com/)
-[![GMAIL SMTP](https://img.shields.io/badge/Gmail-SMTP-red))](https://developers.google.com/gmail/imap/imap-smtp/)
+[![GMAIL SMTP](https://img.shields.io/badge/Gmail-SMTP-red)](https://developers.google.com/gmail/imap/imap-smtp/)
 
 **Quick Links**  
 [Installation](#-installation) • [Configuration](#-configuration) • [Usage](#-usage) • [Troubleshooting](#-troubleshooting)
