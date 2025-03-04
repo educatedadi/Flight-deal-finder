@@ -9,6 +9,7 @@ load_dotenv("setup.env")
 
 email = os.getenv('by_email')
 password = os.getenv('e_mail_pass')
+mobilenum = os.getenv('mobile_num')
 
 bearer_code = os.getenv('sheety_bearer_code')
 auth = {"Authorization": f"Bearer {bearer_code}"}
@@ -26,7 +27,7 @@ class NotificationManager:
         message = client.messages.create(
             messaging_service_sid='MGd063b86b7d5c691a9261816e01245c06',
             body=message,
-            to='+919135620787'
+            to=mobilenum
         )
         print('Message sent!')
 
